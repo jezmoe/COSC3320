@@ -1,0 +1,60 @@
+Available Physical Memory: Pages free:                               14187.
+===============================
+Cache Size: 0.5*M
+Time elapsed: 0.001208 seconds
+Available Physical Memory: Pages free:                               14169.
+===============================
+Cache Size: 0.6*M
+Time elapsed: 0.001117 seconds
+Available Physical Memory: Pages free:                               14132.
+===============================
+Cache Size: 0.7*M
+Time elapsed: 0.001167 seconds
+Available Physical Memory: Pages free:                               14028.
+===============================
+Cache Size: 0.8*M
+Time elapsed: 0.001179 seconds
+Available Physical Memory: Pages free:                               13989.
+===============================
+Cache Size: 0.9*M
+Time elapsed: 0.001249 seconds
+Available Physical Memory: Pages free:                               13885.
+===============================
+Cache Size: 0.95*M
+Time elapsed: 0.001203 seconds
+Available Physical Memory: Pages free:                               13910.
+===============================
+Cache Size: 0.99*M
+Time elapsed: 0.001168 seconds
+Available Physical Memory: Pages free:                               13805.
+===============================
+Cache Size: 1*M
+Time elapsed: 0.001161 seconds
+Available Physical Memory: Pages free:                               13706.
+===============================
+Cache Size: 1.01*M
+Time elapsed: 0.001163 seconds
+Available Physical Memory: Pages free:                               13734.
+===============================
+Cache Size: 1.1*M
+Time elapsed: 0.001261 seconds
+Available Physical Memory: Pages free:                               13567.
+===============================
+Cache Size: 1.5*M
+Time elapsed: 0.001719 seconds
+Available Physical Memory: Pages free:                               13528.
+===============================
+Cache Size: 2*M
+Time elapsed: 0.002293 seconds
+Available Physical Memory: Pages free:                               13168.
+===============================
+Cache Size: 5*M
+Time elapsed: 0.005725 seconds
+Available Physical Memory: Pages free:                               12506.
+===============================
+Cache Size: 10*M
+Time elapsed: 0.011747 seconds
+Available Physical Memory: Pages free:                                9171.
+===============================
+Cache Size: 50*M
+Time elapsed: 0.058171 seconds
